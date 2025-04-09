@@ -9,7 +9,7 @@ Conducteur de ligne robotisée en industrie alimentaire depuis 4 ans chez [TVE L
 ## **Formations**
 * _Baccalauréat Général série Littéraire_ - **2017-2020**  
 * [_CACES® R366 - CACES® R485_](https://www.formatec-sarl.com/blog-formation-caces-securite/actualites-formation-caces-formation-securite-travail/106-caces-r366-caces-r485-formation-chariot-accompagnant-sur-lyon-et-villefranche) - **2020** 
-
+* _Formation [TSSR](https://www.francecompetences.fr/recherche/rncp/37682/) - [Wild Code School](https://www.wildcodeschool.com/)(En cours d'obtention)_ - **2025**
 
 ## **Expériences et Missions**
 **Stage facteur-CDIS** - **08/01/2015- 2 semaines**
